@@ -1,11 +1,14 @@
-﻿using System;
-namespace Logger
+﻿namespace Logger
 {
-    public class Logger
+    public class Logger : Object, Interfaces.ILogger
     {
-        public Logger()
+        public Logger(): base()
         {
+        }
+
+        public void Log(string message)
+        {
+            Console.WriteLine("Logger ==> ", message);
         }
     }
 }
-

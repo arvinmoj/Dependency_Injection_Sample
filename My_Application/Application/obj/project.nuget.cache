@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3A+W1PhZ1gxEU/y/PY+2vajqntq1/BXwhYDv+Ci1SSHUDcxenoG9Z8jovgeHuzeitUFNZT7TWI7NqRhIVbE4bw==",
+  "dgSpecHash": "E8tnMXt0tgaxHxtv3Sbk4M+qTgL1tfVmzpCIpnTVN9ZchIHUIGPXRBmNLAnNNtBFC40qJ0ttxcrPpnYKpe5wsw==",
   "success": true,
   "projectFilePath": "/Users/macbook/Learning_Microservice/Dependency_Injection/Dependency_Injection_Sample/My_Application/Application/Application.csproj",
   "expectedPackageFiles": [],

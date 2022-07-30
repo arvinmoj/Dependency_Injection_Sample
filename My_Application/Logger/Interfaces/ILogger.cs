@@ -1,8 +1,7 @@
-﻿using System;
-namespace Logger.Interfaces
+﻿namespace Logger.Interfaces
 {
     public interface ILogger
     {
+        void Log(string message);
     }
 }
-
